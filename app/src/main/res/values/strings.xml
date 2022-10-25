@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Reservation Meeting Room</string>
+
+    <!-- activity_main -->
+    <string name="appInfo1">ยินดีต้อนรับ \nเข้าสู่ แอพพลิเคชั่นจองห้องประชุม</string>
+    <string name="appInfo2">คุณจะสามารถจองห้องประชุมได้ภายในแอพพลิเคชั่นนี้</string>
+
+    <!-- activity_login -->
+    <string name="titleLogin">แอพจองห้องประชุม</string>
+
+
+    <!-- activity_register -->
+    <string name="titleRegister">ลงทะเบียน</string>
+
+    <!-- activity_main_menu -->
+    <string name="titleMainMenu">เลือกการทำรายการ</string>
+
+    <!-- activity_reserve -->
+    <string name="titleReserve">เลือกวันที่และเวลา</string>
+    <string name="time1">08:00-10:00</string>
+    <string name="time2">10:00-12:00</string>
+    <string name="time3">12:00-14:00</string>
+    <string name="time4">14:00-16:00</string>
+
+    <!-- Input Box -->
+    <string name="name">ชื่อ</string>
+    <string name="surname">นามสกุล</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="usernameLogin">ชื่อผู้ใช้ (เข้าสู่ระบบ)</string>
+    <string name="rePassword">ป้อนรหัสผ่านอีกครั้ง</string>
+
+    <!-- Button -->
+    <string name="appEnter">เข้าสู่แอพพลิเคชั่น</string>
+
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="register">ลงทะเบียน</string>
+
+    <string name="reserveRoom">จองห้องประชุม</string>
+    <string name="reserveList">ตรวจสอบรายการ</string>
+    <string name="logout">ออกจากระบบ</string>
+
+    <string name="reserveSubmit">ยืนยันการจอง</string>
+    <string name="backHome">กลับหน้าหลัก</string>
+    <string name="home">หน้าหลัก</string>
+
+    <!-- Admin -->
+    <string name="tableMember">ตาราง Member</string>
+    <string name="tableReserve">ตาราง ReserveList</string>
+
+    <string name="titleAdmin">Admin menu</string>
+    <string name="inputID">ID</string>
+    <string name="input1">NoData1</string>
+    <string name="input2">NoData2</string>
+    <string name="input3">NoData3</string>
+    <string name="input4">NoData4</string>
+    <string name="input5">NoData5</string>
+    <string name="input6">NoData6</string>
+
+    <string name="txtID">ID</string>
+    <string name="txt1">NoData1</string>
+    <string name="txt2">NoData2</string>
+    <string name="txt3">NoData3</string>
+    <string name="txt4">NoData4</string>
+    <string name="txt5">NoData5</string>
+    <string name="txt6">NoData6</string>
+
+    <string name="getData">ดึงข้อมูล</string>
+    <string name="addData">เพิ่มข้อมูล</string>
+    <string name="delData">ลบข้อมูล</string>
+    <string name="upData">อัปเดตข้อมูล</string>
+    <string name="viewData">แสดงข้อมูลทั้งหมด</string>
+
+</resources>

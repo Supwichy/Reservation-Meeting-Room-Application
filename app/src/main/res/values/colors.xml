@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Light_blue">#ECF8F8</color>
+    <color name="Granny_Apple">#D0F4DE</color>
+    <color name="Padua">#80B7A2</color>
+    <color name="Green_1">#1DB7AB</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="Baby_Blue">#E1FEFE</color>
+    <color name="Moon_Laker">#D4D2F2</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="Light_Blue">#A8D1E7</color>
+    <color name="Misty">#afbfff</color>
+    <color name="P1">#efbcc3</color>
+    <color name="light_brown">#efece9</color>
+    <color name="light_Blue1">#69a0e9</color>
+    <color name="light_Green">#8de5ed</color>
+    <color name="light_Yellow">#fad776</color>
+    <color name="light_purple">#d7bdd6</color>
+    <color name="light_Green1">#8ecddb</color>
+    <color name="Yellow">#f6c82c</color>
+    <color name="sea">#cee7fd</color>
+    <color name="Black1">#363b42</color>
+    <color name="orange">#ea7a24</color>#40E0D0
+</resources>
